@@ -31,7 +31,8 @@
     This repo is the implementation of our article entitled:
     <br />
     "A generalized visibility graph algorithm for analyzing biological time series having rotation in polar plane"
-    
+    <br />
+Z. Ramezanpoor, A. Ghazikhani, and G. S. Bajestani, "A generalized visibility graph algorithm for analyzing biological time series having rotation in polar plane," Engineering Applications of Artificial Intelligence, vol. 128, p. 107557, 2024/02/01/ 2024.    
   </p>
 </div>
 
