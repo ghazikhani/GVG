@@ -105,9 +105,9 @@ Python is for the machine learning
 
 1. There are three matlab files starting with create_vg. These files are for creating the graphs.
 
- create_vg_proposed.m is the proposed algorithm
- create_vg_compare.m is the compared algorithm
- create_vg_base.m is the standard algorithm
+ 1.1. create_vg_proposed.m is the proposed algorithm
+ 1.2. create_vg_compare.m is the compared algorithm
+ 1.3. create_vg_base.m is the standard algorithm
 
 2. Matrix2GraphML.m is for converting the graph to graphml format for Gephi
 3. Gephi could then be used to extract the features
