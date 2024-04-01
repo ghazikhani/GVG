@@ -98,8 +98,11 @@ Gephi is for feature extraction from graphs
 Python is for the machine learning
 
 1-Matlab: https://mathworks.com
+<br/>
 2-Python: https://python.org
+<br/>
 3-Gephi: https://gephi.github.io
+<br/>
 
 ### Usage
 
