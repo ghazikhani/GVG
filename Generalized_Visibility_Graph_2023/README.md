@@ -113,10 +113,10 @@ Python is for the machine learning
  <br/>
  &nbsp;&nbsp;&nbsp;&nbsp; create_vg_base.m is the standard algorithm
 
-
-2. Matrix2GraphML.m is for converting the graph to graphml format for Gephi
-3. Gephi could then be used to extract the features
-4. ML_vg.py is the python code for the machine learning algorithms
+2. There are three other matlab files starting with vg_ (vg_proposed,vg_compare,vg_base). These files are the function related to each graph.
+3. Matrix2GraphML.m is for converting the graph to graphml format for Gephi
+4. Gephi could then be used to extract the features
+5. ML_vg.py is the python code for the machine learning algorithms
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
