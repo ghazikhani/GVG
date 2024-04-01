@@ -25,10 +25,10 @@
 <div align="center">
 
 
-<h3 align="center">Generalized Visibility Graph For Time Series with Rotation in Polar Plane</h3>
+<h3 align="center">A generalized visibility graph algorithm for analyzing biological time series having rotation in polar plane</h3>
 
   <p align="center">
-    This repo is the implementation of our article entitled:
+    This repo is the implementation of our article:
     <br />
     "A generalized visibility graph algorithm for analyzing biological time series having rotation in polar plane"
     <br />
