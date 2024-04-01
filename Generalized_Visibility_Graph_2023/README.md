@@ -135,7 +135,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Adel Ghazikhani -  - adel.ghazi@gmail.com
 <br/>
-Linkedin        -  - linkedin.com/in/adel-ghazikhani-93349257
+Linkedin        -  - https://www.linkedin.com/in/adel-ghazikhani-93349257
 
 <br/>
 Ghasem Sadeghi Bajestani -  - g.sadeghi@imamreza.ac.ir
