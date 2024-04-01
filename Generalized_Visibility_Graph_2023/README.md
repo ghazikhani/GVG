@@ -130,6 +130,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Adel Ghazikhani -  - adel.ghazi@gmail.com
+<br/>
 Linkedin        -  - linkedin.com/in/adel-ghazikhani-93349257
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,6 +142,8 @@ Linkedin        -  - linkedin.com/in/adel-ghazikhani-93349257
 Please Cite:
 
 Z. Ramezanpoor, A. Ghazikhani, and G. S. Bajestani, "A generalized visibility graph algorithm for analyzing biological time series having rotation in polar plane," Engineering Applications of Artificial Intelligence, vol. 128, p. 107557, 2024/02/01/ 2024.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
