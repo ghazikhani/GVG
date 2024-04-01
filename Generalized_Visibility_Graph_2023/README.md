@@ -31,8 +31,7 @@
     This repo is the implementation of our article entitled:
     <br />
     "A generalized visibility graph algorithm for analyzing biological time series having rotation in polar plane"
-
-    <br />
+    
   </p>
 </div>
 
@@ -137,7 +136,7 @@ Linkedin        -  - linkedin.com/in/adel-ghazikhani-93349257
 
 <!-- CITATION -->
 
-##Citation
+## Citation
 
 Please Cite:
 
