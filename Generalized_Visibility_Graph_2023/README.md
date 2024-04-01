@@ -59,6 +59,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#citation">Citation</a></li>
   </ol>
 </details>
 
@@ -129,12 +130,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Adel Ghazikhani -  - adel.ghazi@gmail.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
+Linkedin        -  - linkedin.com/in/adel-ghazikhani-93349257
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-##Cite
+
+<!-- CITATION -->
+
+##Citation
 
 Please Cite:
 
